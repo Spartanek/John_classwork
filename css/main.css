@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 355px;
+  padding: 0px 10px;
+  margin: 0 auto;
+}
+
+.post {
+  padding: 38px 0px;
+  background: #edf7fa;
+}
