@@ -1,7 +1,9 @@
-@import "./utils/_mixin.scss";
-@import "./utils/_vars.scss";
 @import "./utils/_placeholder.scss";
+@import "./utils/_vars.scss";
+@import "./utils/_mixin.scss";
 
+@import "./partials/header";
 @import "./partials/_post.scss";
-@import "./partials/_footer";
-@import "./partials/_works.scss";
+@import "./partials/works";
+@import "./partials/footer";
+
