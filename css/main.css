@@ -4,16 +4,22 @@
   border: 0;
   box-sizing: border-box;
 }
-
+.container1 {
+  width: 355px;
+  padding: 0px 30px;
+  margin: 0 auto;
+}
 .container {
   width: 355px;
-  padding: 0px 10px;
+  padding: 0px 30px;
   margin: 0 auto;
+  background: #6f03c2;
 }
 
 .post {
-  padding: 38px 0px;
-  background: #edf7fa;
+  margin: 0 auto;
+  padding: 0px 30px;
+  background: #6f03c2;
 }
 
 li,
@@ -22,7 +28,7 @@ ul {
 }
 
 .post_item_heading {
-  color: #21243d;
+  color: #21d217;
   font-family: "Heebo";
   font-size: 22px;
   font-style: normal;
@@ -32,7 +38,7 @@ ul {
 
 .post {
   padding: 38px 0px;
-  background: #edf7fa;
+  background: #ff1558;
 }
 
 .post_header {
